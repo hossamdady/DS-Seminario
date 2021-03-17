@@ -1,7 +1,7 @@
 class file1{
 
    public void prueba{
-	System.out.println("Probando GitHub");
+	System.out.println("Prueba de GitHub");
    }
 
 }
