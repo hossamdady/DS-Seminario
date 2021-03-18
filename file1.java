@@ -1,5 +1,2 @@
-class file1{
-
-
-}
+dfdf,jbddbgjk
 
